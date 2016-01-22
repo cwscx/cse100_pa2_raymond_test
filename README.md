@@ -10,8 +10,7 @@ STEP 3: mv cse100_pa2_raymond_test/raymond_test.sh .
 
 STEP 4: chmod u+x raymond_test.sh
 
-You can skip step 5 if you have input_files directory. input_files are given in case you don't have them.
-STEP 5: mv cse100_pa2_raymond_test/input_files .
+STEP 5: mv cse100_pa2_raymond_test/input_files . (You can skip step 5 if you have input_files directory. input_files are given in case you don't have them.)
                                                         
 STEP 6: ./raymond_test.sh
 
