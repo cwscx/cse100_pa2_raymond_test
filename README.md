@@ -2,7 +2,7 @@
 
 To execute the raymond_test.sh, please follow the following steps by sequence:
 
-STEP 1: Get into your pa2 directory (where your compress and uncompress are)
+STEP 1: Get into the directory where your compress and uncompress are.
     
 STEP 2: git clone https://github.com/cwscx/cse100_pa2_raymond_test.git
 
